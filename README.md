@@ -46,7 +46,7 @@ Muestra en pantalla la cantidad de billetes según la metodología del acarreo.
 
 Al finalizar, el sistema indica cuántos retiros adicionales se pueden realizar con los fondos disponibles.
 
-### Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 * React - Biblioteca para la construcción de interfaces de usuario.
 
