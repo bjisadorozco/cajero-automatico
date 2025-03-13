@@ -1,4 +1,4 @@
-### Cajero Automático - Metodología del Acarreo
+# Cajero Automático - Metodología del Acarreo
 
 ## Descripción del Proyecto
 
@@ -8,7 +8,7 @@ Este proyecto es un simulador de cajero automático desarrollado con React, Vite
 
 ## Retiros Disponibles:
 
-# Retiro por número de celular (Estilo Nequi)
+### Retiro por número de celular (Estilo Nequi)
 
 - Se ingresa un vector de 10 dígitos sin caracteres especiales ni alfabéticos.
 
@@ -16,7 +16,7 @@ Este proyecto es un simulador de cajero automático desarrollado con React, Vite
 
 - Se devuelve un vector de 11 dígitos (se agrega un 0 al inicio).
 
-# Retiro estilo Ahorro a la Mano
+### Retiro estilo Ahorro a la Mano
 
 - Se ingresa un vector de 11 dígitos comenzando con 0 o 1.
 
@@ -30,7 +30,7 @@ Este proyecto es un simulador de cajero automático desarrollado con React, Vite
 
 - Se ingresa una clave de 4 dígitos no visible en pantalla.
 
-# Opciones de Retiro:
+### Opciones de Retiro:
 
 - Retiros predefinidos en pantalla.
 
@@ -38,15 +38,15 @@ Este proyecto es un simulador de cajero automático desarrollado con React, Vite
 
 - Restricción: si el monto ingresado es $145,000, el proceso se reinicia.
 
-# Cálculo de Billetes:
+### Cálculo de Billetes:
 
 Muestra en pantalla la cantidad de billetes según la metodología del acarreo.
 
-# Predicción de Retiros Posibles:
+### Predicción de Retiros Posibles:
 
 Al finalizar, el sistema indica cuántos retiros adicionales se pueden realizar con los fondos disponibles.
 
-# Tecnologías Utilizadas
+### Tecnologías Utilizadas
 
 * React - Biblioteca para la construcción de interfaces de usuario.
 
@@ -54,7 +54,7 @@ Al finalizar, el sistema indica cuántos retiros adicionales se pueden realizar 
 
 * Tailwind CSS - Framework de CSS para diseños flexibles y rápidos.
 
-# Estructura del Proyecto
+## Estructura del Proyecto
 
 node_modules/
 public/
@@ -78,9 +78,9 @@ package.json
 README.md
 vite.config.js
 
-# Instalación y Configuración
+## Instalación y Configuración
 
-# Prerrequisitos
+## Prerrequisitos
 
 Asegúrate de tener instalado Node.js y npm.
 
@@ -102,7 +102,7 @@ npm install
 
 npm run dev
 
-# Uso del Proyecto
+## Uso del Proyecto
 
 1. Ejecuta la aplicación en el navegador.
 
@@ -114,7 +114,7 @@ npm run dev
 
 5. Visualiza el resultado y los billetes entregados.
 
-# Contribución
+## Contribución
 
 Si deseas contribuir:
 
