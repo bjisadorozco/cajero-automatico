@@ -24,7 +24,7 @@ Este proyecto es un simulador de cajero automático desarrollado con React, Vite
 
 - Se ingresa una clave de 4 dígitos no visible en pantalla.
 
-# Retiro por cuenta de ahorros
+### Retiro por cuenta de ahorros
 
 - Se ingresa un vector de 11 dígitos sin caracteres especiales ni alfabéticos.
 
